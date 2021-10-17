@@ -1,2 +1,2 @@
 # Heart-Disease-prediction
-Heart disease prediction model in python code through Jupyter notebook
+Heart disease prediction model through Jupyter notebook
